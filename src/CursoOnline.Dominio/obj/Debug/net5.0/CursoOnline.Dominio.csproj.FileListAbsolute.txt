@@ -1,0 +1,12 @@
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\bin\Debug\net5.0\CursoOnline.Dominio.deps.json
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\bin\Debug\net5.0\CursoOnline.Dominio.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\bin\Debug\net5.0\ref\CursoOnline.Dominio.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\bin\Debug\net5.0\CursoOnline.Dominio.pdb
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.AssemblyInfoInputs.cache
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.AssemblyInfo.cs
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.csproj.CoreCompileInputs.cache
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\ref\CursoOnline.Dominio.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.pdb
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\src\CursoOnline.Dominio\obj\Debug\net5.0\CursoOnline.Dominio.csprojAssemblyReference.cache

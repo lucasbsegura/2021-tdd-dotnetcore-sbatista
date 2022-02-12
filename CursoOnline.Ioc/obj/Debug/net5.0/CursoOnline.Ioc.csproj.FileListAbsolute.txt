@@ -1,0 +1,17 @@
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.csprojAssemblyReference.cache
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.AssemblyInfoInputs.cache
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.AssemblyInfo.cs
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.csproj.CoreCompileInputs.cache
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Ioc.deps.json
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Ioc.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\ref\CursoOnline.Ioc.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Ioc.pdb
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Dados.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Dominio.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Dados.pdb
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\bin\Debug\net5.0\CursoOnline.Dominio.pdb
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.csproj.CopyComplete
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\ref\CursoOnline.Ioc.dll
+D:\Cursos\Projetos\CursoTDDxUnit_dotnetcore\CursoOnline\CursoOnline.Ioc\obj\Debug\net5.0\CursoOnline.Ioc.pdb
